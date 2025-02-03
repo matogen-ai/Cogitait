@@ -1,6 +1,5 @@
 @charset "UTF-8";
-@import url('https://fonts.googleapis.com/css2?family=Orbitron:wght@400;700&family=Poppins:wght@400;700&display=swap');
-
+@import url("https://fonts.googleapis.com/css2?family=Orbitron:wght@400;700&family=Poppins:wght@400;700&display=swap");
 
 /*!
 * Start Bootstrap - Agency v7.0.11 (https://startbootstrap.com/theme/agency)
@@ -57,7 +56,7 @@
   --bs-black-rgb: 0, 0, 0;
   --bs-body-color-rgb: 33, 37, 41;
   --bs-body-bg-rgb: 255, 255, 255;
-  --bs-font-sans-serif: 'Poppins', system-ui, -apple-system, "Segoe UI", Roboto,
+  --bs-font-sans-serif: "Poppins", system-ui, -apple-system, "Segoe UI", Roboto,
     "Helvetica Neue", Arial, "Noto Sans", "Liberation Sans", sans-serif,
     "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
   --bs-font-monospace: SFMono-Regular, Menlo, Monaco, Consolas,
@@ -67,9 +66,9 @@
     rgba(255, 255, 255, 0.15),
     rgba(255, 255, 255, 0)
   );
-  --bs-body-font-family: 'Poppins', -apple-system, BlinkMacSystemFont,
-    Segoe UI, Roboto, Helvetica Neue, Arial, sans-serif, Apple Color Emoji,
-    Segoe UI Emoji, Segoe UI Symbol, Noto Color Emoji;
+  --bs-body-font-family: "Poppins", -apple-system, BlinkMacSystemFont, Segoe UI,
+    Roboto, Helvetica Neue, Arial, sans-serif, Apple Color Emoji, Segoe UI Emoji,
+    Segoe UI Symbol, Noto Color Emoji;
   --bs-body-font-size: 1rem;
   --bs-body-font-weight: 400;
   --bs-body-line-height: 1.5;
@@ -128,7 +127,7 @@ h1,
 .h1 {
   margin-top: 0;
   margin-bottom: 1rem;
-  font-family: 'Orbitron', sans-serif;
+  font-family: "Orbitron", sans-serif;
   font-weight: 700;
   line-height: 1.2;
   color: #464544;
@@ -643,15 +642,15 @@ progress {
   height: auto;
 }
 
-.img-shadow{
+.img-shadow {
   box-shadow: 15px 15px 15px rgba(0, 0, 0, 0.8);
 }
 
-.img-shadow-our-work{
-  box-shadow: 10px 10px 20px rgba(0, 0, 0, 0.8)
+.img-shadow-our-work {
+  box-shadow: 10px 10px 20px rgba(0, 0, 0, 0.8);
 }
 
-.img-shadow-industries{
+.img-shadow-industries {
   box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.8);
 }
 
@@ -683,32 +682,30 @@ progress {
   margin-left: auto;
 }
 
-.industry-small-header{
-    display: block;
+.industry-small-header {
+  display: block;
 }
 
-.industry-large-header{
-    display: none;
+.industry-large-header {
+  display: none;
 }
 
-.row-top-margin{
+.row-top-margin {
   margin-top: 0;
 }
 
-
 @media (min-width: 527px) {
-  .industry-small-header{
-      display: none;
+  .industry-small-header {
+    display: none;
   }
 
-  .industry-large-header{
-      display: block;
+  .industry-large-header {
+    display: block;
   }
 
-  .row-top-margin{
+  .row-top-margin {
     margin-top: 2.5rem !important;
   }
-  
 }
 
 @media (min-width: 576px) {
@@ -6112,7 +6109,7 @@ fieldset:disabled .btn {
   z-index: 1080;
   display: block;
   margin: 0;
-  font-family: 'Poppins', sans-serif;
+  font-family: "Poppins", sans-serif;
   font-style: normal;
   font-weight: 400;
   line-height: 1.5;
@@ -6226,7 +6223,7 @@ fieldset:disabled .btn {
   z-index: 1070;
   display: block;
   max-width: 276px;
-  font-family: 'Poppins', sans-serif;
+  font-family: "Poppins", sans-serif;
   font-style: normal;
   font-weight: 400;
   line-height: 1.5;
@@ -8170,7 +8167,7 @@ fieldset:disabled .btn {
   color: #6c757d !important;
 }
 
-.text-muted-center{
+.text-muted-center {
   text-align: center;
 }
 
@@ -11727,7 +11724,7 @@ p {
 .page-section .section-subheading.h3 {
   font-size: 1rem;
   font-weight: 400;
-  font-family: 'Poppins', sans-serif;
+  font-family: "Poppins", sans-serif;
   margin-bottom: 4rem;
   margin-top: 1.5rem;
 }
@@ -11739,7 +11736,7 @@ p {
 }
 .btn-xl {
   padding: 1.25rem 2.5rem;
-  font-family: 'Poppins', sans-serif;
+  font-family: "Poppins", sans-serif;
   font-size: 1.125rem;
   font-weight: 700;
 }
@@ -11762,13 +11759,13 @@ p {
 #mainNav .navbar-toggler {
   padding: 0.75rem;
   font-size: 0.75rem;
-  font-family: 'Orbitron', sans-serif;
+  font-family: "Orbitron", sans-serif;
   text-transform: uppercase;
   font-weight: 700;
 }
 #mainNav .navbar-brand {
   color: #ffc800;
-  font-family: 'Poppins', sans-serif;
+  font-family: "Poppins", sans-serif;
   font-weight: 700;
   letter-spacing: 0.0625em;
   text-transform: uppercase;
@@ -11777,7 +11774,7 @@ p {
   height: 1.5rem;
 }
 #mainNav .navbar-nav .nav-item .nav-link {
-  font-family: 'Poppins', sans-serif;
+  font-family: "Poppins", sans-serif;
   font-size: 0.95rem;
   color: #fff;
   letter-spacing: 0.0625em;
@@ -11838,14 +11835,14 @@ header.masthead .masthead-subheading {
   font-style: italic;
   line-height: 1.5rem;
   margin-bottom: 25px;
-  font-family: 'Orbitron', sans-serif;
+  font-family: "Orbitron", sans-serif;
 }
 header.masthead .masthead-heading {
   font-size: 3.25rem;
   font-weight: 700;
   line-height: 3.25rem;
   margin-bottom: 2rem;
-  font-family: 'Orbitron', sans-serif;
+  font-family: "Orbitron", sans-serif;
 }
 
 @media (min-width: 768px) {
@@ -11905,14 +11902,14 @@ header.masthead .masthead-heading {
 }
 .portfolio-caption-heading {
   font-size: 1.5rem;
-  font-family: 'Orbitron', sans-serif;
+  font-family: "Orbitron", sans-serif;
   font-weight: 700;
   margin-bottom: 0;
   color: #464544;
 }
 #industries .portfolio-item .portfolio-caption .portfolio-caption-subheading {
   font-style: italic;
-  font-family: 'Poppins', sans-serif;
+  font-family: "Poppins", sans-serif;
 }
 
 .portfolio-modal .modal-dialog {
@@ -11932,7 +11929,7 @@ header.masthead .masthead-heading {
 .portfolio-modal .modal-content p.item-intro {
   font-style: italic;
   margin-bottom: 2rem;
-  font-family: 'Poppins', sans-serif;
+  font-family: "Poppins", sans-serif;
 }
 .portfolio-modal .modal-content p {
   margin-bottom: 2rem;
@@ -12011,22 +12008,22 @@ section#contact form#contactForm .form-control:focus {
   box-shadow: none;
 }
 section#contact form#contactForm ::-webkit-input-placeholder {
-  font-family: 'Poppins', sans-serif;
+  font-family: "Poppins", sans-serif;
   font-weight: 700;
   color: #ced4da;
 }
 section#contact form#contactForm :-moz-placeholder {
-  font-family: 'Poppins', sans-serif;
+  font-family: "Poppins", sans-serif;
   font-weight: 700;
   color: #ced4da;
 }
 section#contact form#contactForm ::-moz-placeholder {
-  font-family: 'Poppins', sans-serif;
+  font-family: "Poppins", sans-serif;
   font-weight: 700;
   color: #ced4da;
 }
 section#contact form#contactForm :-ms-input-placeholder {
-  font-family: 'Poppins', sans-serif;
+  font-family: "Poppins", sans-serif;
   font-weight: 700;
   color: #ced4da;
 }
@@ -12034,7 +12031,7 @@ section#contact form#contactForm :-ms-input-placeholder {
 .footer {
   text-align: center;
   font-size: 0.9rem;
-  font-family: 'Poppins', sans-serif;
+  font-family: "Poppins", sans-serif;
 }
 
 .item-container {
@@ -12062,7 +12059,7 @@ section#contact form#contactForm :-ms-input-placeholder {
   flex-direction: column;
 }
 
-.item-text-about-margin{
+.item-text-about-margin {
   margin-left: 0;
   margin-right: 0;
 }
@@ -12071,24 +12068,23 @@ section#contact form#contactForm :-ms-input-placeholder {
   width: 80%;
 }
 
-.mobile-logo{
+.mobile-logo {
   display: block;
   height: 2rem;
 }
 
-.desktop-logo{
+.desktop-logo {
   display: none;
 }
 
-@media (min-width: 576px) {
-  .desktop-logo{
+@media (min-width: 989px) {
+  .desktop-logo {
     display: block;
     height: 4rem;
   }
-  .mobile-logo{
+  .mobile-logo {
     display: none;
   }
-  
 }
 
 @media (min-width: 600px) {
@@ -12107,7 +12103,7 @@ section#contact form#contactForm :-ms-input-placeholder {
     margin-top: 2.5rem;
     height: 100%;
   }
-  .item-text-about-margin{
+  .item-text-about-margin {
     margin-left: 1.5em;
     margin-right: 1.5em;
   }
@@ -12129,7 +12125,6 @@ section#contact form#contactForm :-ms-input-placeholder {
   .content {
     margin-top: 0px; /* Adjust based on the height of your sticky div */
   }
-  
 }
 
 @media (min-width: 875px) {
@@ -12159,14 +12154,14 @@ section#contact form#contactForm :-ms-input-placeholder {
   margin-top: 10px;
 }
 
-.hide-me{
+.hide-me {
   /* display: none;   */
 }
 
 .work-item-container {
   display: flex;
   justify-content: space-between;
-  align-items: flex-start; 
+  align-items: flex-start;
   flex-wrap: wrap; /* Allows wrapping to the next line if needed */
 }
 
@@ -12176,7 +12171,6 @@ section#contact form#contactForm :-ms-input-placeholder {
   max-width: 31.5%; /* Ensure items don't grow too large */
   height: 250px; /* Set a fixed height for consistency */
 }
-
 
 .thumbnail-img {
   width: 100%;
@@ -12197,9 +12191,9 @@ section#contact form#contactForm :-ms-input-placeholder {
   color: gray;
 }
 
-.custom-close-button{
-  border-radius: 10%; 
-  height: 3em; 
+.custom-close-button {
+  border-radius: 10%;
+  height: 3em;
   width: 7em;
 }
 
@@ -12215,38 +12209,42 @@ section#contact form#contactForm :-ms-input-placeholder {
   text-decoration: underline;
 }
 
-.contact-img{
+.contact-img {
   width: 1em;
   height: 1em;
   margin-right: 1em;
 }
 
-.flex-vertical-center{
+.flex-vertical-center {
   display: flex;
   align-items: center;
-  
 }
 
-.contact-label-image{
-  width: 12em; 
-}
-
-.contact-label-no-image{
+.contact-label-image {
   width: 12em;
-  padding-left: 2em; 
 }
-.overwrite-paragraph-bottom-margin{
+
+.contact-label-no-image {
+  width: 12em;
+  padding-left: 2em;
+}
+.overwrite-paragraph-bottom-margin {
   margin-bottom: 0;
 }
 
-p{
+p {
   pointer-events: none;
   user-select: none;
 }
 
-h1, h2, h3, h4, h5, h6 {
-  pointer-events: none; 
-  user-select: none; 
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  pointer-events: none;
+  user-select: none;
 }
 
 #spinner {
@@ -12266,12 +12264,12 @@ h1, h2, h3, h4, h5, h6 {
 @media (min-width: 768px) {
   #bottom-child-industries-button {
     position: relative;
-    top: 11rem; 
+    top: 11rem;
     border: 1px solid #ccc;
   }
 }
 
-.case-studies-link{
+.case-studies-link {
   pointer-events: auto;
 }
 
@@ -12288,23 +12286,23 @@ h1, h2, h3, h4, h5, h6 {
   text-align: left;
 }
 
-.img-center{
+.img-center {
   display: block;
   margin-left: auto;
   margin-right: auto;
 }
 
-.img-width80{
+.img-width80 {
   width: 80%;
 }
 
-.div-above-section{
-  height: 100px; 
+.div-above-section {
+  height: 100px;
   margin-top: -100px;
 }
 
-section#contact div p{
-  font-family: 'Poppins', sans-serif;
+section#contact div p {
+  font-family: "Poppins", sans-serif;
   font-weight: 400;
   color: white;
 }
@@ -12313,14 +12311,14 @@ section#contact div p{
   margin-top: 0em;
 }
 
-.no-margin{
+.no-margin {
   margin: 0;
 }
 
-.industry-caption-container{
-  padding: 1.5rem; 
-  text-align: center; 
-  background-color: transparent
+.industry-caption-container {
+  padding: 1.5rem;
+  text-align: center;
+  background-color: transparent;
 }
 
 .contact-invite-container {
@@ -12330,14 +12328,14 @@ section#contact div p{
   justify-content: center;
 }
 
-.contact-invite{
+.contact-invite {
   text-align: center;
   color: white;
   margin-bottom: 2rem;
   width: 75%;
 }
 
-.timeline{
+.timeline {
   padding: 0;
 }
 
